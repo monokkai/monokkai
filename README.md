@@ -70,6 +70,18 @@
   </tbody>
 </table>
 
+  <h3>🔗 Find Me: </h3>
+  <div style="display: flex; gap: 2rem; align-items: center;">
+    <a href="https://dev.to/monokkai" target="_blank" style="display: flex; flex-direction: column; align-items: center; text-decoration: none;">
+      <img src="https://res.cloudinary.com/dev-dot-to/image/upload/v1621367681/logo/default-black.svg" alt="DEV.to" width="80" />
+      <span style="margin-top: 0.5rem; color: #000; font-weight: bold;">DEV.to/@monokkai</span>
+    </a>
+    <a href="https://www.linkedin.com/in/egor-mayer-688614374" target="_blank" style="display: flex; flex-direction: column; align-items: center; text-decoration: none;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="80" />
+      <span style="margin-top: 0.5rem; color: #0077B5; font-weight: bold;">LinkedIn / Egor Mayer</span>
+    </a>
+  </div>
+
 <h3>🇪🇸 Bienvenidos a España!</h3>
 <p>Let’s build something amazing from sunny Alicante ☀️</p>
 
