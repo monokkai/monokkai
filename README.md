@@ -6,7 +6,6 @@
 <p>
   Welcome to my page!<br />
   I'm Igor, a passionate Fullstack Developer currently living in 
-  <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="15"/> 
   <b>Alicante, España</b> 🇪🇸
 </p>
 
