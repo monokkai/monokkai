@@ -5,7 +5,7 @@
 
 <p>
   Welcome to my page!<br />
-  I'm Igor, a passionate Fullstack Developer currently living in 
+  I'm Igor, a passionate Young DevSecOps currently living in 
   <b>Alicante, España</b> 🇪🇸
 </p>
 
