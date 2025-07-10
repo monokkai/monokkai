@@ -48,20 +48,29 @@
     <tr>
       <th>🎁 Project</th>
       <th>⭐ Stars</th>
-      <th>🍴 Forks</th>
-      <th>🐞 Issues</th>
-      <th>🚀 PRs</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/monokkai/your-project" target="_blank">Your Project</a></td>
-      <td>120</td>
-      <td>34</td>
-      <td>2</td>
-      <td>5</td>
+      <td><a href="https://github.com/monokkai/Nest.js-Microservices-Arcitecture" target="_blank">Nest.js Microservices Architecture</a></td>
+      <td>1</td>
     </tr>
-    <!-- Add more projects here -->
+    <tr>
+      <td><a href="https://github.com/monokkai/Fitness-Site-Front" target="_blank">Fitness Site Frontend</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/monokkai/Fitness-Site-Nginx-Service" target="_blank">Fitness Site Nginx Service</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/monokkai/Fitness-Site-Auth-Service" target="_blank">Fitness Site Auth Service</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/monokkai//DevSecOps-RESTAPI" target="_blank">DevSecOps RestAPI</a></td>
+      <td>1</td>
+    </tr>
   </tbody>
 </table>
 
