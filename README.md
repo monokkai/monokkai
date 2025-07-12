@@ -13,7 +13,7 @@
   🌍 Working on modern web experiences using React, TypeScript, GraphQL, and cloud-native solutions.<br/>
   💻 Creating big applications using Docker, Kubernetes, AWS, Python and Go.<br/>
   🧑‍💻 Check out my projects on 
-  <a href="https://github.com/monokkai" target="_blank"><b>GitHub ↗</b></a>
+  <a href="https://github.com/monokkai?tab=repositories" target="_blank"><b>GitHub ↗</b></a>
 </p>
 
 <h3>🛠️ Things I code with</h3>
