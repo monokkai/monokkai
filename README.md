@@ -5,7 +5,7 @@
 
 <p>
   Welcome to my page!<br />
-  I'm Igor, a passionate Young MLOps currently living in 
+  I'm Igor, a passionate Young MLOps based in
   <b>Alicante, España</b> 🇪🇸
 </p>
 
