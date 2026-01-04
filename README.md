@@ -10,9 +10,9 @@
 </p>
 
 <p>
-  🌍 Working on modern web experiences using React, TypeScript, GraphQL, and cloud-native solutions.<br/>
-  💻 Creating big applications using Docker, Kubernetes, AWS, Python and Go.<br/>
-  🧑‍💻 Check out my projects on 
+  🧠 Building scalable backend and system-level software with a focus on performance and reliability.<br/>
+  ⚙️ Developing distributed services using Go, Python, gRPC, Docker, and Kubernetes.<br/>
+  🧑‍💻 Check out my engineering projects on 
   <a href="https://github.com/monokkai?tab=repositories" target="_blank"><b>GitHub ↗</b></a>
 </p>
 
