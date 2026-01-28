@@ -11,7 +11,7 @@
 
 <p>
   🧠 Building scalable backend and system-level software with a focus on performance and reliability.<br/>
-  ⚙️ Developing distributed services using Go, Python, gRPC, TypeScript, and Kubernetes.<br/>
+  ⚙️ Developing distributed services using Go, Python, C++, TypeScript, and Kubernetes.<br/>
   🧑‍💻 Check out my engineering projects on 
   <a href="https://github.com/monokkai?tab=repositories" target="_blank"><b>GitHub ↗</b></a>
 </p>
