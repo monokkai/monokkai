@@ -5,7 +5,7 @@
 
 <p>
   Welcome to my page!<br />
-  I'm Diego, <i>Meta Contributer</i> and a passionate <i>Young Software Engineer</i> living in
+  I'm Diegø, <i>Meta Contributer</i> and a passionate <i>Young Software Engineer</i> living in
   <b>Alicante, España</b> 🇪🇸
 </p>
 
